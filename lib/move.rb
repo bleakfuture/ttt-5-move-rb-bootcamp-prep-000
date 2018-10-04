@@ -14,5 +14,5 @@ def input_to_index(user_input)
   return 
 end
 
-def move(board, )
+def move(board, index, )
 
